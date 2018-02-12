@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Egg timer
+//  EggTimer
 //
 //  Created by Aubrey Mazinyi on 12/2/18.
 //  Copyright © 2018 AubijuanApps. All rights reserved.
@@ -9,7 +9,6 @@
 import UIKit
 
 @UIApplicationMain
-
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
